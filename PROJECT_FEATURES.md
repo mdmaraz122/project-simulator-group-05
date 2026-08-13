@@ -1,2 +1,2 @@
 # Implemented Features
-FR-01: Admin Login
+## FR04: Employee registration
